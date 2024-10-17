@@ -18,3 +18,5 @@
 ##### _HTML5_
 ##### _CSS3_
 ##### _Javascript e jQuery_
+#####_aluno1 Ana Gabrielle
+#####_aluno2 Jair Junior
